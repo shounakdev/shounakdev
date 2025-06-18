@@ -1,5 +1,5 @@
 # 💫 About Me:
-An Enthusiast human with a love for building tech that matters. From crafting web apps and IoT systems to developing simple solutions for complex problems and compilers, I enjoy solving real-world problems with clean, scalable code.
+An Enthusiast Human Being with a love for building tech that matters. From crafting web apps and IoT systems to developing simple solutions for complex problems and compilers, I enjoy solving real-world problems with clean, scalable code.
 
 
 ## 🌐 Socials:
